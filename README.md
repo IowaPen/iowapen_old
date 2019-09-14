@@ -1,6 +1,6 @@
 # github.io
 Source code for IowaPen's web site
 
-http://www.iowapenclub/
+http://www.iowapen.club/
 
 https://iowapen.github.io/
